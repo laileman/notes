@@ -109,3 +109,43 @@ dstat工具
 
 ![image-20210428163210327](linux.assets/image-20210428163210327.png)
 
+![image-20210428163415120](linux.assets/image-20210428163415120.png)
+
+![image-20210428170109418](linux.assets/image-20210428170109418.png)
+
+![image-20210428170928730](linux.assets/image-20210428170928730.png)
+
+![image-20210428171023124](linux.assets/image-20210428171023124.png)
+
+![image-20210428171208243](linux.assets/image-20210428171208243.png)
+
+
+
+
+
+# 4. 系统优化
+
+ 
+
+
+
+# 5. shell脚本
+
+![image-20210428174430677](linux.assets/image-20210428174430677.png)
+
+
+
+
+
+
+
+
+
+
+
+![image-20210428180202024](linux.assets/image-20210428180202024.png)
+
+![image-20210428180220216](linux.assets/image-20210428180220216.png)
+
+![image-20210428180232371](linux.assets/image-20210428180232371.png)
+
