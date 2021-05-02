@@ -37,14 +37,6 @@ dashboard-metrics-scraper   ClusterIP   10.110.217.51    <none>        8000/TCP 
 kubernetes-dashboard        NodePort    10.102.195.188   <none>        443:30611/TCP   3h33m
 ```
 
-Open on browser
-
-Https://[master-ip:30611]
-
-![image-20210502233112882](README.assets/image-20210502233112882.png)
-
-![image-20210502233356497](README.assets/image-20210502233356497.png)
-
 # 创建trafik ingress 路由
 
 - **创建证书文件**
