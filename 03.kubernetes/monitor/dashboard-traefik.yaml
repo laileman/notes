@@ -1,0 +1,18 @@
+## dashboard traefik ingress
+apiVersion: traefik.containo.us/v1alpha1
+kind: IngressRoute
+metadata:
+  name: kubernetes-dashboard-route
+  namespace: kubernetes-dashboard
+spec:
+  entryPoints:
+    - websecure
+  tls:
+    secretName: dashboard-tls
+  routes:
+    - match: Host(`dashboard.k8s.lcom`) && PathPrefix(`/`)
+      kind: Rule
+      services:
+        - name: kubernetes-dashboard
+          port: 443
+
